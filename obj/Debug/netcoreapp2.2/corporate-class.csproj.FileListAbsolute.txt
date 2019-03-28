@@ -1,0 +1,11 @@
+/Users/colinwhite/workspace/back-end/exercises/corporate-class/bin/Debug/netcoreapp2.2/corporate-class.deps.json
+/Users/colinwhite/workspace/back-end/exercises/corporate-class/bin/Debug/netcoreapp2.2/corporate-class.runtimeconfig.json
+/Users/colinwhite/workspace/back-end/exercises/corporate-class/bin/Debug/netcoreapp2.2/corporate-class.runtimeconfig.dev.json
+/Users/colinwhite/workspace/back-end/exercises/corporate-class/bin/Debug/netcoreapp2.2/corporate-class.dll
+/Users/colinwhite/workspace/back-end/exercises/corporate-class/bin/Debug/netcoreapp2.2/corporate-class.pdb
+/Users/colinwhite/workspace/back-end/exercises/corporate-class/obj/Debug/netcoreapp2.2/corporate-class.csprojAssemblyReference.cache
+/Users/colinwhite/workspace/back-end/exercises/corporate-class/obj/Debug/netcoreapp2.2/corporate-class.csproj.CoreCompileInputs.cache
+/Users/colinwhite/workspace/back-end/exercises/corporate-class/obj/Debug/netcoreapp2.2/corporate-class.AssemblyInfoInputs.cache
+/Users/colinwhite/workspace/back-end/exercises/corporate-class/obj/Debug/netcoreapp2.2/corporate-class.AssemblyInfo.cs
+/Users/colinwhite/workspace/back-end/exercises/corporate-class/obj/Debug/netcoreapp2.2/corporate-class.dll
+/Users/colinwhite/workspace/back-end/exercises/corporate-class/obj/Debug/netcoreapp2.2/corporate-class.pdb

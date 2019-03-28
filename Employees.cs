@@ -11,7 +11,7 @@ namespace corporate_class
 
     // Per the instruction: define methods to get/set employee name, job title, and start date
     // Access modifier has to be public with constructor methods
-    // Constructors don't return anything so that's why we don't need VOID
+    // Constructors methods don't return anything so that's why we don't need VOID
     public Employees(string employeename, string jobtitle, DateTime startdate)
     {
       EmployeeName = employeename;
